@@ -16,17 +16,22 @@
 	margin:5px;
 	border-radius:50%;
 }
-.circle-green{
-	width:100px;
-	height:100px;
-	background:yellow;
-    margin:5px;
-	border-radius:50%;
-}
-.circle-yellow{
-	width:100px;
-	height:100px;
-	background:green;
-	margin:5px;
-	border-radius:50%;
-}
+.circle {
+
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            margin: 10px;
+        }
+
+        .red {
+            background-color: #ff5555;
+        }
+
+        .green {
+            background-color: #55aa55;
+        }
+
+        .yellow {
+            background-color: #ffcc55;
+        }
