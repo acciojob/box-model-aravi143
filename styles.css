@@ -12,7 +12,7 @@
 .ball1{
 	width:100px;
 	height:100px;
-	background:green;
+	background:red;
 	margin:5px;
 	border-radius:50%;
 }
@@ -26,7 +26,7 @@
 .ball3{
 	width:100px;
 	height:100px;
-	background:red;
+	background:green;
 	margin:5px;
 	border-radius:50%;
 }
