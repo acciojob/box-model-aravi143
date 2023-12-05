@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.container{
+	width:500px;
+	height:200px;
+	border:5px solid black;
+	border-radius:50px;
+	display:flex;
+    align-items:center;
+	justify-content:center;
+	background:lightgray;
+}
+.ball1{
+	width:100px;
+	height:100px;
+	background:green;
+	margin:5px;
+	border-radius:50%;
+}
+.ball2{
+	width:100px;
+	height:100px;
+	background:yellow;
+    margin:5px;
+	border-radius:50%;
+}
+.ball3{
+	width:100px;
+	height:100px;
+	background:red;
+	margin:5px;
+	border-radius:50%;
+}
